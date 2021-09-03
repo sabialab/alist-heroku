@@ -12,8 +12,8 @@ cat >/alist/config/conf.yml <<EOF
 info:
   title: $CTITLE
   logo:
-  footer_text: Cooluc's Blog
-  footer_url: https://www.cooluc.com/
+  footer_text: Just for App
+  footer_url: https://www.justforapp.cn/
   music_img: https://cdn.jsdelivr.net/gh/sbwml/cdn@master/img/0f8b57866bdb5.gif
   check_update: false
   script: ""
