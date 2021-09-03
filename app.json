@@ -1,5 +1,5 @@
 {
-  "name": "Alist",
+  "name": "Alist-app",
   "description": "Alist on Heroku",
   "keywords": ["Alist"],
   "env": {
