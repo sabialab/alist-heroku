@@ -1,4 +1,4 @@
-FROM masonyeung/alist
+FROM masonyeung/alist:laster
 MAINTAINER cooluc <admin@cooluc.com>
 
 RUN chmod -R 777 /alist/config
